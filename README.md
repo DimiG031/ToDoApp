@@ -49,6 +49,10 @@ This is a Java Swing-based To-Do List application that allows users to manage th
 - **Drag and drop tasks between tabs**.
 - **Dark mode UI**.
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
